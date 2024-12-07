@@ -1,0 +1,1 @@
+CREATE INDEX idx_curso_id ON topicos(curso_id);
